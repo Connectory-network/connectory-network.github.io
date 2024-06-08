@@ -1,1 +1,10 @@
-Currently the site will remain like this until I find proper web hosting. Development Halted until finals week finishes.
+# Roadmap
+
+[ ] Finish Core Pages
+[ ] Correct CSS Styling for stable functionality
+[x] Todo-list
+
+
+
+
+Log updated on Saturday, June 8th. 2024.
